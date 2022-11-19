@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jim
-- 👀 I’m interested in sensors and embedded control systems
+- 👀 I’m interested in sensors and embedded control systems for biotech applications.
 - 🌱 I’m currently learning Rust & Julia
 
 <!---
